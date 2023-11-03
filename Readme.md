@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-<a href="" style="color: #000; cursor: pointer; border: 3px solid;
+<a href="https://www.youtube.com/watch?v=LZNdJSKeui8" style="color: #000; cursor: pointer; border: 3px solid;
   padding: 0.25em 0.5em; box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;">
 Video Preview
-</a><span style="color: #66cc99; line-height: 2">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="" style="color: #66cc99; cursor: pointer; border: 3px solid;
+</a><span style="color: #66cc99; line-height: 2">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="https://github.com/chron-team/nifty/releases/latest" style="color: #66cc99; cursor: pointer; border: 3px solid;
   padding: 0.25em 0.5em; box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;">
   Download Now!
 </a>
