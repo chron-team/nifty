@@ -27,6 +27,7 @@
 - [Sen | Designed by Kosal Sen](https://fonts.google.com/specimen/Sen)
 - [Ubuntu | Designed by Dalton Maag](https://fonts.google.com/specimen/Ubuntu)
 - [Vollkorn | Designed by Friedrich Althausen](https://fonts.google.com/specimen/Vollkorn)
+- [githubnext/monaspace: An innovative superfamily of fonts for code](https://github.com/githubnext/monaspace)
 - [GitHub | lxgw/LxgwWenKai: An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。](https://github.com/lxgw/LxgwWenKai)
 - [Cascadia Code | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.](https://github.com/microsoft/cascadia-code)
 - [Inconsolata | Designed by Raph Levien](https://fonts.google.com/specimen/Inconsolata)
